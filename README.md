@@ -17,6 +17,7 @@ A full-stack web application that allows patients to book appointments with heal
 - Doctor dashboard for managing availability
 - Responsive UI (Bootstrap)
 - RESTful API integration
+- search option to find doctors by location, hospital, or disease
 
 ## Requirements / Dependencies
 
